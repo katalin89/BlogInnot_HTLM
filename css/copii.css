@@ -1,0 +1,17 @@
+.title{
+    color: deepskyblue;
+    text-align: center;
+    font-weight: bolder;
+}
+h1,h2,h3{
+    color: blue;
+    font-weight: bolder;
+}
+a{
+    color: cornflowerblue;
+}
+
+body{
+    font-family: 'Rubik Moonrocks', cursive;
+  font-size:x-large;
+}

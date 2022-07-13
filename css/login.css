@@ -1,0 +1,29 @@
+.titlu {
+    color: cornflowerblue;
+    font-weight: 300;
+    text-align: center;
+}
+
+.buton {
+    color: white;
+    background-color: blue;
+
+}
+
+.titlu {
+    background-color: blue;
+    color: white;
+}
+
+.name {
+    background-color: blue;
+    color: white;
+}
+
+.container {
+    padding: 10px;
+    background: #fff;
+    border-radius: 5px;
+    margin: 45px auto;
+    box-shadow: 0 1.5px 0 0 rgba(0, 0, 0, 0.1);
+}

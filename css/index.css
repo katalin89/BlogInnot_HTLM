@@ -1,0 +1,36 @@
+#titlu {
+    color: rgb(12, 12, 231);
+    text-align: center;
+    font-weight: bolder;
+    font-size: 40px
+}
+
+h1,
+h2 {
+    color: cornflowerblue;
+    text-align: left;
+    font-weight: lighter;
+    font-size: 30;
+
+}
+
+body {
+
+    font-family: 'Crimson Text', serif;
+}
+
+a {
+    color: rgb(50, 92, 135);
+    text-align: justify;
+}
+
+p {
+
+    line-height: 1.5;
+    font-style: oblique;
+}
+
+blockquote {
+
+    font-size: larger;
+}

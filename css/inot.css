@@ -1,0 +1,22 @@
+.titlu{
+    color: cornflowerblue;
+    text-align: center;
+    font-weight: bolder;
+}
+body{
+    font-family: 'Satisfy', cursive;
+}
+h1,h2,h3{
+    color: cornflowerblue;
+    font-weight: bolder;
+}
+
+a{
+    color: rgb(71, 130, 223);
+}
+
+.accent{
+    text-decoration: double;
+    text-decoration-color: blue;
+}
+
